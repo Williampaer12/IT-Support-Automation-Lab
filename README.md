@@ -12,12 +12,19 @@ Home Lab: A virtualized Windows and Linux environment used to test scripts, simu
 Repository Structure
 
 text
+
 scripts
+
 powershell     # Windows automation diagnostic scripts
+
 bash           # Linux administration monitoring scripts
+
 docs
+
 sops           # Standard Operating Procedures troubleshooting guides
+
 homelab        # Home lab architecture , network layout
+
 screenshots    # Screenshots demonstrating lab work and results
 
 README.md
